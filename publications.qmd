@@ -30,7 +30,7 @@ The source code for our work is publicly available at [ICC Github](https://githu
 ## Selected Publications
 
 
-## Wireless/WiFi Sensing
+### Wireless/WiFi Sensing
    - T. D. Gian, T. T. Dung, F. Restuccia, Q.-V. Pham, and Van-Dinh Nguyen, "TinySense: Effective CSI Compression for Scalable and Accurate Wi-Fi Sensing," in *Proc. IEEE International Conference on Pervasive Computing and Communications (PerCom)*, Pisa, Italy, Mar. 2026.
    - T. D. Gian, Tien Dac Lai, Thien Van Luong, Kok-Seng Wong, and Van-Dinh Nguyen, "HPE-Li: WiFi-enabled Lightweight Dual Selective Kernel Convolution for Human Pose Estimation" in *Proc.  18th European Conference on Computer Vision (ECCV),* Sept. 2024, Milano, Italy.
    - T. D. Gian, D. T. Tran, Q.-V. Pham, L. -N. Tran and V.-D. Nguyen, "Multimodal Human Pose Estimation: A Wi-Fi-Driven Approach With Adaptive Kernel Selection," in *IEEE Transactions on Artificial Intelligence*, vol. 7, no. 5, pp. 2941-2955, May 2026.
@@ -41,6 +41,34 @@ The source code for our work is publicly available at [ICC Github](https://githu
    - N. T. Nguyen, V.-D. Nguyen, H. V. Nguyen, H. Q. Ngo, A. L. Swindlehurst and M. Juntti, "Performance Analysis and Power Allocation for Massive MIMO ISAC Systems," in *IEEE Transactions on Signal Processing,* vol. 73, pp. 1691-1707, 2025.
 
 
+
+### 5G/6G (Open RAN, Slicing, Full-Duplex)
+   - Q.-T. Luu *et al.*, "Network Slicing With Flexible VNF Order: A Branch-and-Bound Approach," in *IEEE Transactions on Network and Service Management,* vol. 23, pp. 3805-3818, 2026.
+   - B.-M. Vu, N. T. Dang, S. Moon, O.-S. Shin and V.-D. Nguyen, "Optimizing Mixed FSO-RF Downlink Systems With Active RIS and SLIPT-Enabled UAV-BSs," in *IEEE Transactions on Communications,* vol. 74, pp. 3600-3616, 2026.
+   - T. -V. Truong *et al.*, "Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning," in *IEEE Transactions on Network and Service Management*, vol. 23, pp. 3055-3070, 2026
+   - F. Kavehmadavani, T. X. Vu, V. -D. Nguyen and S. Chatzinotas, "Intelligent User Association and Scheduling in Open RAN: A Hierarchical Optimization Framework," in *IEEE Transactions on Communications,* vol. 73, no. 11, pp. 11574-11589, Nov. 2025.
+   - F. Kavehmadavani, V. -D. Nguyen, T. X. Vu and S. Chatzinotas, "Empowering Traffic Steering in 6G Open RAN With Deep Reinforcement Learning," in *IEEE Transactions on Wireless Communications*, vol. 23, no. 10, pp. 12782-12798, Oct. 2024.
+   - V.-D. Nguyen et al., "Network-Aided Intelligent Traffic Steering in 6G O-RAN: A Multi-Layer Optimization Framework," in *IEEE Journal on Selected Areas in Communications,* vol. 42, no. 2, pp. 389-405, Feb. 2024.
+   - N. T. Thanh Van, N. C. Luong, S. Feng, V.-D. Nguyen and D. I. Kim, "Evolutionary Games for Dynamic Network Resource Selection in RSMA-Enabled 6G Networks," in *IEEE Journal on Selected Areas in Communications,* vol. 41, no. 5, pp. 1320-1335, May 2023.
+    - D. Van Huynh, V.-D. Nguyen, S. Chatzinotas, S. R. Khosravirad, H. V. Poor and T. Q. Duong, "Joint Communication and Computation Offloading for Ultra-Reliable and Low-Latency With Multi-Tier Computing," in *IEEE Journal on Selected Areas in Communications,* vol. 41, no. 2, pp. 521-537, Feb. 2023.
+    - N. T. Nguyen, V.-D. Nguyen, H. V. Nguyen, H. Q. Ngo, S. Chatzinotas and M. Juntti, "Spectral Efficiency Analysis of Hybrid Relay-Reflecting Intelligent Surface-Assisted Cell-Free Massive MIMO Systems," in *IEEE Transactions on Wireless Communications*, vol. 22, no. 5, pp. 3397-3416, May 2023.
+    - H. V. Nguyen *et al.*, "On the Spectral and Energy Efficiencies of Full-Duplex Cell-Free Massive MIMO," in *IEEE Journal on Selected Areas in Communications*, vol. 38, no. 8, pp. 1698-1718, Aug. 2020.
+    - V.-D. Nguyen, H. V. Nguyen, O. A. Dobre and O. -S. Shin, "A New Design Paradigm for Secure Full-Duplex Multiuser Systems," in *IEEE Journal on Selected Areas in Communications*, vol. 36, no. 7, pp. 1480-1498, July 2018.
+    - V.-D. Nguyen, H. D. Tuan, T. Q. Duong, H. V. Poor and O. -S. Shin, "Precoder Design for Signal Superposition in MIMO-NOMA Multicell Networks," in *IEEE Journal on Selected Areas in Communications*, vol. 35, no. 12, pp. 2681-2695, Dec. 2017.
+
+
+### Internet of Things 
+    - S. H. Wanasekara, V.-D. Nguyen, K. -S. Wong, M. . -D. Nguyen, S. Chatzinotas and O. A. Dobre, "SC-GIR: Goal-Oriented Semantic Communication via Invariant Representation Learning for Image Transmission," in *IEEE Transactions on Mobile Computing*, vol. 25, no. 2, pp. 1483-1498, Feb. 2026.
+    - C.-H. Nguyen et al., "Encrypted Data Caching and Learning Framework for Robust Federated Learning-Based Mobile Edge Computing," in *IEEE/ACM Transactions on Networking*, vol. 32, no. 3, pp. 2705-2720, June 2024.
+    - D. Van Huynh, V.-D. Nguyen, S. R. Khosravirad, G. K. Karagiannidis and T. Q. Duong, "Distributed Communication and Computation Resource Management for Digital Twin-Aided Edge Computing With Short-Packet Communications," in *IEEE Journal on Selected Areas in Communications,* vol. 41, no. 10, pp. 3008-3021, Oct. 2023.
+    - V.-D. Nguyen, S. Chatzinotas, B. Ottersten and T. Q. Duong, "FedFog: Network-Aware Optimization of Federated Learning Over Wireless Fog-Cloud Systems," in *IEEE Transactions on Wireless Communications,* vol. 21, no. 10, pp. 8581-8599, Oct. 2022.
+    - D. -H. Tran, V.-D. Nguyen, S. Chatzinotas, T. X. Vu and B. Ottersten, "UAV Relay-Assisted Emergency Communications in IoT Networks: Resource Allocation and Trajectory Optimization," in *IEEE Transactions on Wireless Communications*, vol. 21, no. 3, pp. 1621-1637, March 2022.
+    - V.-D. Nguyen, S. K. Sharma, T. X. Vu, S. Chatzinotas and B. Ottersten, "Efficient Federated Learning Algorithm for Resource Allocation in Wireless IoT Networks," in *IEEE Internet of Things Journal,* vol. 8, no. 5, pp. 3394-3409, 1 March1, 2021.
+
+
+### Smart Aquaculture
+   - Phuc H. Nguyen, Ba Hung Ngo, Mai Phuong Tran, Cuong D. Do and Van-Dinh Nguyen, "FISHER: Gradient-Decoupled Hierarchical Multi-Task Learning for Fine-Grained Aquatic Species Recognition", IEEE Transactions on Circuits and Systems for Video Technology (under review).
+   
 
 
 ```{r setup}
