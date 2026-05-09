@@ -67,7 +67,7 @@ The source code for our work is publicly available at [ICC Github](https://githu
 
 
 ### Smart Aquaculture
-   - P. H. Nguyen, B. H. Ngo, M. P. Tran, C. D. Do and V.-D. Nguyen, "FISHER: Gradient-Decoupled Hierarchical Multi-Task Learning for Fine-Grained Aquatic Species Recognition", IEEE Transactions on Circuits and Systems for Video Technology (under review).
+   - P. H. Nguyen, B. H. Ngo, M. P. Tran, C. D. Do and V.-D. Nguyen, "FISHER: Gradient-Decoupled Hierarchical Multi-Task Learning for Fine-Grained Aquatic Species Recognition", *IEEE Transactions on Circuits and Systems for Video Technology* (under review).
    
 
 
