@@ -27,6 +27,20 @@ The most up-to-date publication can be found on my [Google Scholar](https://scho
 
 The source code for our work is publicly available at [ICC Github](https://github.com/icclabo?tab=repositories){.text-primary .text-decoration-none .fw-bolder}  profile.
 
+## Selected Publications
+
+
+## Wireless/WiFi Sensing
+   - T. D. Gian, T. T. Dung, F. Restuccia, Q.-V. Pham, and Van-Dinh Nguyen, "TinySense: Effective CSI Compression for Scalable and Accurate Wi-Fi Sensing," in *Proc. IEEE International Conference on Pervasive Computing and Communications (PerCom)*, Pisa, Italy, Mar. 2026.
+   - T. D. Gian, Tien Dac Lai, Thien Van Luong, Kok-Seng Wong, and Van-Dinh Nguyen, "HPE-Li: WiFi-enabled Lightweight Dual Selective Kernel Convolution for Human Pose Estimation" in *Proc.  18th European Conference on Computer Vision (ECCV),* Sept. 2024, Milano, Italy.
+   - T. D. Gian, D. T. Tran, Q.-V. Pham, L. -N. Tran and V.-D. Nguyen, "Multimodal Human Pose Estimation: A Wi-Fi-Driven Approach With Adaptive Kernel Selection," in *IEEE Transactions on Artificial Intelligence*, vol. 7, no. 5, pp. 2941-2955, May 2026.
+   - X. Hoang Nguyen, V.-D. Nguyen, Q. -T. Luu, T. Dinh Gian and O. -S. Shin, "Robust WiFi Sensing-Based Human Pose Estimation Using Denoising Autoencoder and CNN With Dynamic Subcarrier Attention," in *IEEE Internet of Things Journal*, vol. 12, no. 11, pp. 17066-17079, 1 June1, 2025.
+   - H. T. Nguyen, V.-D. Nguyen, *et al.*, "Energy Efficiency for Massive MIMO Integrated Sensing and Communication Systems," in *IEEE Journal on Selected Areas in Communications,* vol. 44, pp. 165-180, 2026
+   - B. M. Tuan, V.-D. Nguyen, *et al.*, "Deep Learning-Driven Friendly Jamming for Secure Multicarrier ISAC Under Channel Uncertainty," in *IEEE Transactions on Communications*, vol. 74, pp. 6332-6348, 2026.
+   - P. Zivuku, V.-D. Nguyen, N. T. Nguyen, K. Ntontin, S. Chatzinotas and B. Ottersten, "Resource Allocation for RIS-Enhanced OFDM-MIMO ISAC Systems," in *IEEE Transactions on Communications*, vol. 74, pp. 1777-1792, 2026.
+   - N. T. Nguyen, V.-D. Nguyen, H. V. Nguyen, H. Q. Ngo, A. L. Swindlehurst and M. Juntti, "Performance Analysis and Power Allocation for Massive MIMO ISAC Systems," in *IEEE Transactions on Signal Processing,* vol. 73, pp. 1691-1707, 2025.
+
+
 
 
 ```{r setup}

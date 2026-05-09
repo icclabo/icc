@@ -50,6 +50,7 @@ In studying 5G/6G, the research investigates how next-generation wireless networ
 
 In studying sensing, the research examines the acquisition and interpretation of environmental and biological data, including water quality parameters, fish behavior, and system conditions. Particular attention is given to the constraints of underwater sensing, such as signal attenuation, noise, and long-term sensor reliability. In studying aquaculture functionality, the research explores how these technologies contribute to improved productivity, sustainability, and automation, including applications such as feeding optimization, disease detection, and environmental management. Overall, these pillars collectively address how intelligent systems can enhance both operational efficiency and ecological responsibility in aquaculture.
 
+
 ### Methodological Foundation
 
 Supporting these pillars is a comprehensive methodological foundation that integrates mathematical modelling, artificial intelligence and optimization, and software-based implementation. The mathematical modelling aspects focus on the development of analytical and simulation models to describe system behavior, including network performance, energy consumption, and environmental dynamics. These models often involve differential equations, probabilistic analysis, and system-level abstractions that enable prediction and performance evaluation under varying conditions.
@@ -57,3 +58,5 @@ Supporting these pillars is a comprehensive methodological foundation that integ
 The artificial intelligence and optimization aspects focus on extracting insights from data and enabling intelligent decision-making. Machine learning techniques are applied to tasks such as time-series prediction, anomaly detection, and behavioral analysis, while optimization methods are used to improve resource allocation, feeding strategies, and network efficiency. These approaches aim to balance multiple objectives, such as maximizing productivity while minimizing cost and environmental impact.
 
 The software and computational aspects emphasize the implementation, simulation, and validation of proposed systems using modern tools and platforms. This includes the use of programming environments such as Python, simulation tools like MATLAB and NS-3, and machine learning frameworks such as TensorFlow and PyTorch. Together, these methodologies provide a cohesive framework for designing, analyzing, and deploying intelligent aquaculture systems.
+
+
