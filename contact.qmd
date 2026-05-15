@@ -22,7 +22,7 @@ The ICC Lab is located in **S7.1, 13 Westland Row** at Trinity College Dublin.
 
 
 ```{=html}
-<iframe src="https://www.google.com/maps/place/School+of+Computer+Science+and+Statistics/@53.3435158,-6.253116,17z/data=!4m6!3m5!1s0x48670fd154ec4ffd:0xe7c6fb5a15eb4b7!8m2!3d53.3435158!4d-6.2505357!16s%2Fg%2F11v0v5kxm7?entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"></iframe>
+<iframe src="https://www.google.com/maps/place/School+of+Computer+Science+and+Statistics/@53.3428774,-6.2554377,16.09z/data=!4m23!1m16!4m15!1m6!1m2!1s0x48670fd154ec4ffd:0xe7c6fb5a15eb4b7!2sSchool+of+Computer+Science+and+Statistics,+O%E2%80%99Reilly+Institute+Trinity+College,+Dublin,+D02+N8P5,+Ireland!2m2!1d-6.2505357!2d53.3435158!1m6!1m2!1s0x48670fd154ec4ffd:0xe7c6fb5a15eb4b7!2sSchool+of+Computer+Science+and+Statistics,+O%E2%80%99Reilly+Institute+Trinity+College,+Dublin,+D02+N8P5,+Ireland!2m2!1d-6.2505357!2d53.3435158!3e3!3m5!1s0x48670fd154ec4ffd:0xe7c6fb5a15eb4b7!8m2!3d53.3435158!4d-6.2505357!16s%2Fg%2F11v0v5kxm7?entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"></iframe>
 ```
 
 ## Email Us
