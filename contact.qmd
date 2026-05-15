@@ -18,12 +18,13 @@ email-obfuscation: javascript
 The ICC Lab is located in **S7.1, 13 Westland Row** at Trinity College Dublin.
 
 > **Street Address:** O'Reilly Institute Trinity College, Dublin, D02W272, Ireland
->
+
 
 
 ```{=html}
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2381.999323802143!2d-6.2529847!3d53.3432683!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670fd154ec4ffd%3A0xe7c6fb5a15eb4b7!2sSchool%20of%20Computer%20Science%20and%20Statistics!5e0!3m2!1sen!2s!4v1778845525543!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2381.999323802143!2d-6.2529847!3d53.3432683!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670fd154ec4ffd%3A0xe7c6fb5a15eb4b7!2sSchool%20of%20Computer%20Science%20and%20Statistics!5e0!3m2!1sen!2s!4v1778845525543!5m2!1sen!2s" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ```
+
 
 ## Email Us
 
