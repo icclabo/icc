@@ -263,14 +263,7 @@
     "href": "contact.html#visit-us",
     "title": "ICC Lab",
     "section": "Visit Us",
-    "text": "Visit Us\nThe ICC Lab is located in S7.1, 13 Westland Row at Trinity College Dublin.\n\nStreet Address: O’Reilly Institute Trinity College, Dublin, D02W272, Ireland"
-  },
-  {
-    "objectID": "contact.html#email-us",
-    "href": "contact.html#email-us",
-    "title": "ICC Lab",
-    "section": "Email Us",
-    "text": "Email Us\nLoading…"
+    "text": "Visit Us\nThe ICC Lab is located in S7.1, 13 Westland Row at Trinity College Dublin.\n\nStreet Address: O’Reilly Institute Trinity College, Dublin, D02W272, Ireland\n\n```\n\n## Email Us\n\n```{=html}\nLoading…"
   },
   {
     "objectID": "girard/index.html",
