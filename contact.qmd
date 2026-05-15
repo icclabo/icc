@@ -15,14 +15,14 @@ email-obfuscation: javascript
 
 ## Visit Us
 
-The ICC Lab is located in **G-building Room #301** at VinUniversity.
+The ICC Lab is located in **S7.1, 13 Westland Row** at Trinity College Dublin.
 
-> **Street Address:** Vinhomes Ocean Park, Gia Lam, Ha Noi 12426, Vietnam
+> **Street Address:** O'Reilly Institute Trinity College, Dublin, D02W272, Ireland
 >
 
 
 ```{=html}
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14900.588127718478!2d105.9447031!3d20.9867425!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135afe809f342c5%3A0x136290b61ba411db!2sVinUniversity!5e0!3m2!1sen!2sie!4v1774485222696!5m2!1sen!2sie" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/place/School+of+Computer+Science+and+Statistics/@53.3435158,-6.253116,17z/data=!4m6!3m5!1s0x48670fd154ec4ffd:0xe7c6fb5a15eb4b7!8m2!3d53.3435158!4d-6.2505357!16s%2Fg%2F11v0v5kxm7?entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"></iframe>
 ```
 
 ## Email Us
