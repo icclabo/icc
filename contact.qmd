@@ -28,5 +28,7 @@ The ICC Lab is located in **S7.1, 13 Westland Row** at Trinity College Dublin.
 
 
 
-> **Contact the PI directly at** dinh.nguyen@tcd.ie
+```{=html}
+<a href="mailto:dinh.nguyen@tcd.ie" class="btn btn-primary rounded-pill">Contact the PI directly</a>
+```
 
