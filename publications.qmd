@@ -68,6 +68,9 @@ The source code for our work is publicly available at [ICC Github](https://githu
 
 ### Smart Aquaculture
    - P. H. Nguyen, B. H. Ngo, M. P. Tran, C. D. Do and V.-D. Nguyen, "FISHER: Gradient-Decoupled Hierarchical Multi-Task Learning for Fine-Grained Aquatic Species Recognition", *IEEE Transactions on Circuits and Systems for Video Technology* (under review).
+   - Doanh Cao Bui, Hung Ba Ngo, Cuong Danh Do, and Van-Dinh Nguyen, "SPACO-VLM: Spatial Awareness of Coral Reefs in Large Vision–Language Models for Visual Question Answering", *Pattern Recognition* (under review).
+   - Quynh-Hoa N. Dam, Phuc H. Nguyen, Mai P. Tran, Cong-Son Trinh, Trung T. Nguyen, Ninh N. G. Nguyen, Tuan-Dung Bui, Hung B. Ngo, Cuong D. Do, Dinh V. Dzung and Van Dinh Nguyen, "From Monitoring to Action: A Comprehensive Survey of Autonomous Decision-Making in Smart Aquaculture Systems​", *Computers and Electronics in Agriculture* (under review).
+   
    
 
 
