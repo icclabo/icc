@@ -32,6 +32,11 @@ toc: true
   *Primary Source/Citation:* [Boyd et al. (2025)](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)<br />
   *Slides Access:* [Link](https://web.stanford.edu/class/ee364a/lectures.html)
 
+- **Qiskit Optimization**<br />
+  *Open Access:* [Link](https://qiskit-community.github.io/qiskit-optimization/index.html)
+
+
+
 
 ## Datasets
 
