@@ -14,3 +14,5 @@ In addition to core research in communication and computing systems, we actively
 :::
 
 ![](./img/framework.png){width=100%}
+
+![](./img/wordcloud_2026.png){width=100%}
