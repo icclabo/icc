@@ -42,6 +42,8 @@ toc: true
 
 ![](./img/framework.png)
 
+![](./img/wordcloud_2026.png){width=100%}
+
 ### Research Areas
 
 The substantive focus of our research is on the development of intelligent and connected aquaculture systems through the integration of advanced communication technologies, sensing, and data-driven decision-making. The four pillars of this work are 5G/6G communication, Internet of Things (IoT), sensing technologies, and aquaculture applications. 
