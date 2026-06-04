@@ -27,6 +27,8 @@ The most up-to-date publication can be found on my [Google Scholar](https://scho
 
 The source code for our work is publicly available at [ICC Github](https://github.com/icclabo?tab=repositories){.text-primary .text-decoration-none .fw-bolder}  profile.
 
+Our research has been published in top venues in journals and conferences, including IEEE JSAC, ToN, TMC, TSP, TCOM, TWC and ECCV, IEEE PerCom.
+
 ## Selected Publications
 
 
