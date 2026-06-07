@@ -42,6 +42,10 @@ toc: true
 
  ***Wi-Fi/Wireless Sensing*** (see the list of awesome WiFi sensing works: https://github.com/NTUMARS/Awesome-WiFi-CSI-Sensing)
 
+- **OctoNet: A large-scale, multi-modal, multi-view human activity dataset designed to advance human activity understanding and multi-modal learning. OctoNet comprises 12 heterogeneous modalities (including RGB, depth, thermal cameras, infrared arrays, audio, millimeter-wave radar, Wi-Fi, IMU, and more) recorded from 41 participants under multi-view sensor setups, yielding over 67.72M synchronized frames.<br />
+  *Primary Article/Citation:* [Yuan et al. (2023)](https://openreview.net/pdf?id=z3TftXOizf)<br />
+  *Open Access:* [Link](https://aiot-lab.github.io/OctoNet/)
+
 - **MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset**<br />
   Description: Multi-modal non-intrusive 4D human dataset, MM-Fi, with 25 daily or rehabilitation action categories to bridge the gap between wireless sensors and high-level human perception tasks<br />
   *Primary Article/Citation:* [Yang et al. (2023)](https://dl.acm.org/doi/abs/10.5555/3666122.3666944)<br />
