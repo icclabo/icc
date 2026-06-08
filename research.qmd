@@ -29,7 +29,7 @@ toc: true
     - 01/2025 -- 01/2026
 
 - *"Enhancing the Performance of 6G Open RAN Integrating Edge Computing and Network licing"*
-    - National Foundation for Science and Technology (NAFOSTED), ietnam
+    - National Foundation for Science and Technology (NAFOSTED), Vietnam
     - PI: **Dinh Nguyen** (not sign the contract)
     - 2024 -- 2026
     
