@@ -1,3 +1,16 @@
+@inproceedings{dungeccv2026,
+  title={H-SFP: Hierarchical Federated Learning with Decoupled Split-Model Prototyping},
+  author={Dung Tran, Binh Ha Nguyen, Duong Nguyen, Dinh Nguyen and Kok-Seng Wong},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  pages={1-18},
+  abstract={Federated learning (FL) enables collaborative model training without sharing raw data, but practical deployments must balance statistical heterogeneity, resource-constrained clients, and communication efficiency. While conventional FL requires clients to train full models locally, split federated learning (SFL) reduces client-side computation by partitioning models across tiers, at the cost of transmitting high-dimensional activations and gradients during training. We propose Hierarchical Split-Federated Prototyping (H-SFP), a communication-efficient framework for hierarchical cloud–edge–client environments. Instead of exchanging sample-level activations or gradients, H-SFP communicates compact class-wise feature statistics and uses them to synthesize representative feature distributions at upper tiers. This statistical prototyping mechanism enables independent training of model segments while preserving the computational advantages of split-model execution and substantially reducing synchronization and communication overhead.
+    A key finding of this work is that lightweight first- and second-order feature statistics are sufficient to support hierarchical split-model training, providing an effective communication interface without requiring sample-level feature exchange. We analyze the communication properties and stability of the proposed statistical interface under hierarchical aggregation. Extensive experiments on CIFAR-10/100, HAM10000, ImageNet-1K, and ISIC-2018 demonstrate that H-SFP remains robust under heterogeneous data distributions while reducing communication overhead by up to two orders of magnitude compared with federated and split-learning baselines.},
+  year={2026},
+doi = {},
+}
+
+
+
 @INPROCEEDINGS{gian2026tinysensee,
       title={TinySense: Effective CSI Compression for Scalable and Accurate Wi-Fi Sensing}, 
       author={Toan Gian and Dung T. Tran and Viet Quoc Pham and Francesco Restuccia and Van-Dinh Nguyen},
@@ -7,6 +20,9 @@
      doi ={https://doi.org/10.48550/arXiv.2601.15838},
       url={https://arxiv.org/abs/2601.15838}, 
 }
+
+
+
 
 
 @inproceedings{d2024hpe,
