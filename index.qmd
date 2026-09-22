@@ -13,6 +13,6 @@ We develop novel methodologies in areas such as [resource allocation, network op
 In addition to core research in communication and computing systems, we actively pursue interdisciplinary collaborations across domains, including [smart cities, smart aquaculture, agriculture, and smart ocean systems]{.fw-bolder}. In these areas, we leverage [data-driven, AI-enabled, and distributed solutions]{.fw-bolder} to address real-world challenges such as sustainability, environmental monitoring, resource management, and intelligent infrastructure development.
 :::
 
-![](./img/framework.png){width=100%}
+{{< include icc-embed.html >}}
 
 ![](./img/wordcloud_2026.png){width=100%}

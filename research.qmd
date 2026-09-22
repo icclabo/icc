@@ -40,7 +40,7 @@ toc: true
 
 ## Research Framework
 
-![](./img/framework.png)
+{{< include icc-embed.html >}}
 
 ![](./img/wordcloud_2026.png){width=100%}
 
