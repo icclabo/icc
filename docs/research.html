@@ -209,7 +209,21 @@ gtag('config', 'G-K5TXS64QLN', { 'anonymize_ip': true});
 </section>
 <section id="research-framework" class="level2">
 <h2 class="anchored" data-anchor-id="research-framework">Research Framework</h2>
-<p><img src="./img/framework.png" class="img-fluid"></p>
+<iframe id="icc-research-figure" src="icc-animated.html" title="Interactive ICC Lab research framework" loading="lazy" style="display:block;width:100%;height:700px;border:0;">
+</iframe>
+<script>
+(() => {
+  const frame = document.getElementById('icc-research-figure');
+  window.addEventListener('message', event => {
+    if (event.origin !== window.location.origin || event.source !== frame.contentWindow) return;
+    if (event.data?.type !== 'icc-figure-height') return;
+    const height = event.data.height;
+    if (typeof height !== 'number' || !Number.isFinite(height) || height < 100 || height > 10000) return;
+    const value = Math.ceil(height) + 'px';
+    if (frame.style.height !== value) frame.style.height = value;
+  });
+})();
+</script>
 <p><img src="./img/wordcloud_2026.png" class="img-fluid" style="width:100.0%"></p>
 <section id="research-areas" class="level3">
 <h3 class="anchored" data-anchor-id="research-areas">Research Areas</h3>
