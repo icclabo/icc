@@ -42,7 +42,7 @@ toc: true
 
 {{< include icc-embed.html >}}
 
-![](./img/wordcloud_2026.png){width=100%}
+{{< include wordcloud-embed.html >}}
 
 ### Research Areas
 

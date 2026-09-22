@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="850" viewBox="0 0 1440 850" role="img" aria-labelledby="title description">
+<title id="title">Research themes of the Intelligence, Computing and Communication Lab</title>
+<desc id="description">A conceptual taxonomy of keywords from the supplied word cloud, organized into six research themes. All themes have equal visual weight; text size does not represent keyword frequency.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#243444}.title{font-size:32px;font-weight:600}.subtitle{font-size:19px;fill:#617080}.heading{font-size:20px;font-weight:600}.term{font-size:18px}.number{font-size:14px;letter-spacing:1.5px;fill:#617080}.note{font-size:15px;fill:#617080}</style>
+<rect width="1440" height="850" fill="#fff"/>
+<text x="48" y="59" class="title">Research themes</text>
+<text x="48" y="92" class="subtitle">Intelligence, Computing &amp; Communication Lab</text>
+<path d="M48 116H1392" stroke="#CCD5DC"/>
+
+<g><rect x="48" y="144" width="432" height="282" rx="5" fill="#FAFBFC" stroke="#DAE0E5"/>
+<path d="M48 144H480" stroke="#285C83" stroke-width="4"/>
+<text x="70" y="174" class="number">THEME 01</text>
+<text x="70" y="203" class="heading">Wireless communication</text>
+<circle cx="73" cy="250" r="2.3" fill="#285C83"/>
+<text x="86" y="256" class="term">5G/6G and radio access networks</text>
+<circle cx="73" cy="283" r="2.3" fill="#285C83"/>
+<text x="86" y="289" class="term">MIMO and antenna arrays</text>
+<circle cx="73" cy="316" r="2.3" fill="#285C83"/>
+<text x="86" y="322" class="term">Cognitive radio and spectrum sharing</text>
+<circle cx="73" cy="349" r="2.3" fill="#285C83"/>
+<text x="86" y="355" class="term">Uplink, downlink and relaying</text>
+<circle cx="73" cy="382" r="2.3" fill="#285C83"/>
+<text x="86" y="388" class="term">Aerial and backscatter communication</text>
+</g>
+<g><rect x="504" y="144" width="432" height="282" rx="5" fill="#FAFBFC" stroke="#DAE0E5"/>
+<path d="M504 144H936" stroke="#28796F" stroke-width="4"/>
+<text x="526" y="174" class="number">THEME 02</text>
+<text x="526" y="203" class="heading">Edge computing and IoT</text>
+<circle cx="529" cy="250" r="2.3" fill="#28796F"/>
+<text x="542" y="256" class="term">Internet of Things (IoT)</text>
+<circle cx="529" cy="283" r="2.3" fill="#28796F"/>
+<text x="542" y="289" class="term">Mobile edge computing</text>
+<circle cx="529" cy="316" r="2.3" fill="#28796F"/>
+<text x="542" y="322" class="term">Sensor networks and sensing</text>
+<circle cx="529" cy="349" r="2.3" fill="#28796F"/>
+<text x="542" y="355" class="term">Network slicing and virtualization</text>
+<circle cx="529" cy="382" r="2.3" fill="#28796F"/>
+<text x="542" y="388" class="term">Real-time processing and services</text>
+</g>
+<g><rect x="960" y="144" width="432" height="282" rx="5" fill="#FAFBFC" stroke="#DAE0E5"/>
+<path d="M960 144H1392" stroke="#665789" stroke-width="4"/>
+<text x="982" y="174" class="number">THEME 03</text>
+<text x="982" y="203" class="heading">Artificial intelligence</text>
+<circle cx="985" cy="250" r="2.3" fill="#665789"/>
+<text x="998" y="256" class="term">Machine and deep learning</text>
+<circle cx="985" cy="283" r="2.3" fill="#665789"/>
+<text x="998" y="289" class="term">Reinforcement learning</text>
+<circle cx="985" cy="316" r="2.3" fill="#665789"/>
+<text x="998" y="322" class="term">Neural networks and transformers</text>
+<circle cx="985" cy="349" r="2.3" fill="#665789"/>
+<text x="998" y="355" class="term">Feature extraction and training</text>
+<circle cx="985" cy="382" r="2.3" fill="#665789"/>
+<text x="998" y="388" class="term">Data-driven computational modelling</text>
+</g>
+<g><rect x="48" y="450" width="432" height="282" rx="5" fill="#FAFBFC" stroke="#DAE0E5"/>
+<path d="M48 450H480" stroke="#285C83" stroke-width="4"/>
+<text x="70" y="480" class="number">THEME 04</text>
+<text x="70" y="509" class="heading">Optimization and</text>
+<text x="70" y="533" class="heading">resource allocation</text>
+<circle cx="73" cy="556" r="2.3" fill="#285C83"/>
+<text x="86" y="562" class="term">Power and bandwidth allocation</text>
+<circle cx="73" cy="589" r="2.3" fill="#285C83"/>
+<text x="86" y="595" class="term">Scheduling and admission control</text>
+<circle cx="73" cy="622" r="2.3" fill="#285C83"/>
+<text x="86" y="628" class="term">Energy efficiency and harvesting</text>
+<circle cx="73" cy="655" r="2.3" fill="#285C83"/>
+<text x="86" y="661" class="term">Throughput–latency trade-offs</text>
+<circle cx="73" cy="688" r="2.3" fill="#285C83"/>
+<text x="86" y="694" class="term">Convex approximation and heuristics</text>
+</g>
+<g><rect x="504" y="450" width="432" height="282" rx="5" fill="#FAFBFC" stroke="#DAE0E5"/>
+<path d="M504 450H936" stroke="#28796F" stroke-width="4"/>
+<text x="526" y="480" class="number">THEME 05</text>
+<text x="526" y="509" class="heading">Signal processing and inference</text>
+<circle cx="529" cy="556" r="2.3" fill="#28796F"/>
+<text x="542" y="562" class="term">Array signal processing and precoding</text>
+<circle cx="529" cy="589" r="2.3" fill="#28796F"/>
+<text x="542" y="595" class="term">Channel estimation and decoding</text>
+<circle cx="529" cy="622" r="2.3" fill="#28796F"/>
+<text x="542" y="628" class="term">Interference and noise mitigation</text>
+<circle cx="529" cy="655" r="2.3" fill="#28796F"/>
+<text x="542" y="661" class="term">Radar and integrated sensing</text>
+<circle cx="529" cy="688" r="2.3" fill="#28796F"/>
+<text x="542" y="694" class="term">Statistical modelling and inference</text>
+</g>
+<g><rect x="960" y="450" width="432" height="282" rx="5" fill="#FAFBFC" stroke="#DAE0E5"/>
+<path d="M960 450H1392" stroke="#665789" stroke-width="4"/>
+<text x="982" y="480" class="number">THEME 06</text>
+<text x="982" y="509" class="heading">Security and reliability</text>
+<circle cx="985" cy="556" r="2.3" fill="#665789"/>
+<text x="998" y="562" class="term">Communication-system security</text>
+<circle cx="985" cy="589" r="2.3" fill="#665789"/>
+<text x="998" y="595" class="term">Jamming and eavesdropping</text>
+<circle cx="985" cy="622" r="2.3" fill="#665789"/>
+<text x="998" y="628" class="term">Privacy and encryption</text>
+<circle cx="985" cy="655" r="2.3" fill="#665789"/>
+<text x="998" y="661" class="term">Reliable low-latency communication</text>
+<circle cx="985" cy="688" r="2.3" fill="#665789"/>
+<text x="998" y="694" class="term">Robustness under uncertainty</text>
+</g>
+<path d="M48 770H1392" stroke="#CCD5DC"/>
+<text x="48" y="802" class="note">Conceptual grouping of the supplied keywords; text size does not encode keyword frequency or research impact.</text>
+</svg>

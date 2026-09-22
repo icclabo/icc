@@ -1,0 +1,61 @@
+<div id="icc-wordcloud-motion">
+<style>
+#icc-wordcloud-motion{width:100%;background:#fff}
+#icc-wordcloud-motion svg{display:block;width:100%;height:auto;overflow:hidden}
+#icc-wordcloud-motion .focus-word{transform-box:view-box;pointer-events:none}
+</style>
+<svg viewBox="-90 -65 1671 1185" role="img" aria-labelledby="icc-cloud-title icc-cloud-desc">
+<title id="icc-cloud-title">Animated ICC Lab research word cloud</title>
+<desc id="icc-cloud-desc">The main research keywords gently zoom in and out one at a time, in a continuous loop.</desc>
+<defs></defs>
+<image class="cloud-base" x="0" y="0" width="1491" height="1055" href="__CLOUD_IMAGE__"/>
+<g class="focus-word" aria-hidden="true"></g>
+</svg>
+<script>
+(()=>{
+ const root=document.getElementById('icc-wordcloud-motion');
+ const svg=root.querySelector('svg'),focus=root.querySelector('.focus-word'),defs=root.querySelector('defs');
+ const source=root.querySelector('.cloud-base').getAttribute('href');
+ const words=[
+ ['Optimization',485,570,685,113],
+ ['Internet-of-Things',617,464,816,108],
+ ['Resource management',535,302,888,85],
+ ['Wireless communication',48,224,741,64],
+ ['Array signal processing',568,393,600,64],
+ ['Interference',424,691,395,70],
+ ['Artificial intelligence',541,765,519,59],
+ ['Edge computing',306,470,68,410],
+ ['Open RAN',309,379,244,80],
+ ['Throughput',616,826,225,45],
+ ['Computational modeling',854,828,414,38],
+ ['5G mobile communication',210,291,65,615],
+ ['Cognitive radio',1230,279,224,31],
+ ['Energy harvesting',1150,248,215,30],
+ ['Communication system security',353,190,449,32],
+ ['Signal-to-noise ratio',378,818,230,29]
+ ];
+ const ns='http://www.w3.org/2000/svg';
+ function make(tag,attrs){const e=document.createElementNS(ns,tag);Object.entries(attrs).forEach(([key,value])=>e.setAttribute(key,String(value)));return e;}
+ let index=0,animation=null,timer=null,stopped=false;
+ function next(){
+  if(stopped||!root.isConnected)return;
+  const [name,x,y,w,h]=words[index];index=(index+1)%words.length;
+  focus.replaceChildren();defs.replaceChildren();focus.dataset.keyword=name;
+  focus.style.transformOrigin=((x+w/2+90)/1671*100)+'% '+((y+h/2+65)/1185*100)+'%';
+  const clip=make('clipPath',{id:'icc-keyword-crop'});clip.append(make('rect',{x,y,width:w,height:h}));defs.append(clip);
+  const crop=make('g',{'clip-path':'url(#icc-keyword-crop)'});
+  crop.append(make('image',{href:source,x:0,y:0,width:1491,height:1055}));focus.append(crop);
+  animation=focus.animate([{transform:'scale(1)',offset:0},{transform:'scale(1.13)',offset:.42},{transform:'scale(1.13)',offset:.58},{transform:'scale(1)',offset:1}],{duration:2400,easing:'ease-in-out',fill:'none'});
+  animation.finished.then(()=>{if(!stopped)timer=setTimeout(next,300);}).catch(()=>{});
+ }
+ document.addEventListener('visibilitychange',()=>{
+  if(document.hidden){animation?.pause();clearTimeout(timer);timer=null;}
+  else if(animation?.playState==='paused')animation.play();
+  else if(!timer)next();
+ });
+ next();
+ const observer=new MutationObserver(()=>{if(!root.isConnected){stopped=true;clearTimeout(timer);animation?.cancel();observer.disconnect();}});
+ observer.observe(document.body,{childList:true,subtree:true});
+})();
+</script>
+</div>

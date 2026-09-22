@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - icc-animated.html
+    - wordcloud-animated.html
 
 execute:
     freeze: auto
